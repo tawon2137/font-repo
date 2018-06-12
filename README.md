@@ -1,8 +1,6 @@
 ## lalaheydey-font
 
-
-#### description
-헤이데이에서 주로 사용하는 Noto-sans, Replica 그룹화시켜 사용하기 쉽도록 만듬
+> 헤이데이에서 주로 사용하는 Noto-sans, Replica 그룹화시켜 사용하기 쉽도록 만듬
 
 
 
