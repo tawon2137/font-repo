@@ -2,58 +2,68 @@
   font-family: 'Replica';
   font-style: normal;
   font-weight: 100;
+  font-display: swap;
   src: local("replica-light"), url("./en/Replica-Light.eot") format("eot"), url("./en/Replica-Light.woff") format("woff"), url("./en/Replica-Light.woff2") format("woff2"); }
 
 @font-face {
   font-family: 'Replica';
   font-style: normal;
   font-weight: 400;
+  font-display: swap;
   src: local("replica-reguler"), url("./en/Replica-Regular.eot") format("eot"), url("./en/Replica-Regular.woff") format("woff"); }
 
 @font-face {
   font-family: 'Replica';
   font-style: normal;
   font-weight: 700;
+  font-display: swap;
   src: local("replica-bold"), url("./en/Replica-Bold.eot") format("eot"), url("./en/Replica-Bold.woff") format("woff"), url("./en/Replica-Bold.woff2") format("woff2"); }
 
 @font-face {
   font-family: 'Noto Sans Cjk Kr';
   font-style: normal;
   font-weight: 100;
+  font-display: swap;
   src: local("NotoSansCjkKr-thin"), url("./kr/NotoSansKR-Thin.woff") format("woff"), url("./kr/NotoSansKR-Thin.woff2") format("woff2"); }
 
 @font-face {
   font-family: 'Noto Sans Cjk Kr';
   font-style: normal;
   font-weight: 200;
+  font-display: swap;
   src: local("NotoSansCjkKr-Light"), url("./kr/NotoSansKR-Light.woff") format("woff"), url("./kr/NotoSansKR-Light.woff2") format("woff2"); }
 
 @font-face {
   font-family: 'Noto Sans Cjk Kr';
   font-style: normal;
   font-weight: 300;
+  font-display: swap;
   src: local("NotoSansCjkKr-DemiLight"), url("./kr/NotoSansKR-DemiLight.woff") format("woff"), url("./kr/NotoSansKR-DemiLight.woff2") format("woff2"); }
 
 @font-face {
   font-family: 'Noto Sans Cjk Kr';
   font-style: normal;
   font-weight: 400;
+  font-display: swap;
   src: local("NotoSansCjkKr-regular"), url("./kr/NotoSansKR-Regular.woff") format("woff"), url("./kr/NotoSansKR-Regular.woff2") format("woff2"); }
 
 @font-face {
   font-family: 'Noto Sans Cjk Kr';
   font-style: normal;
   font-weight: 500;
+  font-display: swap;
   src: local("NotoSansCjkKr-Medium"), url("./kr/NotoSansKR-Medium.woff") format("woff"), url("./kr/NotoSansKR-Medium.woff2") format("woff2"); }
 
 @font-face {
   font-family: 'Noto Sans Cjk Kr';
   font-style: normal;
   font-weight: 700;
+  font-display: swap;
   src: local("NotoSansCjkKr-bold"), url("./kr/NotoSansKR-Bold.woff") format("woff"), url("./kr/NotoSansKR-Bold.woff2") format("woff2"); }
 
 @font-face {
   font-family: 'Noto Sans Cjk Kr';
   font-style: normal;
   font-weight: 800;
+  font-display: swap;
   src: local("NotoSansCjkKr-black"), url("./kr/NotoSansKR-Black.woff") format("woff"), url("./kr/NotoSansKR-Black.woff2") format("woff2"); }
