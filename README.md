@@ -1,6 +1,6 @@
-## lalaheydey-font
+## 주로사용하는 폰트저장소
 
-> 헤이데이에서 주로 사용하는 Noto-sans, Replica 그룹화시켜 사용하기 쉽도록 만듬
+> 주로 사용하는 Noto-sans, Replica 그룹화시켜 사용하기 쉽도록 만듬
 
 - __영문폰트__
   - [Replica](https://lineto.com/The+Fonts/All+Fonts/Replica/)
@@ -10,9 +10,9 @@
 
 - command Line
 ```
-git clone https://github.com/tawon2137/lalaheydey-font.git
+git clone https://github.com/tawon2137/use-font.git
 ```
 - html (불러오기)
 ```html
-<link rel="stylesheet" href="staticResourceDomain/lalaheydey-font/font.css" />
+<link rel="stylesheet" href="staticResourceDomain/use-font/font.css" />
 ```
